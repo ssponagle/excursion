@@ -24,3 +24,8 @@ h3 {
   color: aquamarine;
   font-size: 16px;
 }
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
