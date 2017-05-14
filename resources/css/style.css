@@ -1,4 +1,4 @@
-* {
+body {
   font-family: Verdana;
   text-align: center;
   color: white;
@@ -23,6 +23,10 @@ h3 {
 .download {
   color: aquamarine;
   font-size: 16px;
+}
+
+a {
+  color: inherit;
 }
 
 .copyright {
